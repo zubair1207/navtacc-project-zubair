@@ -1,0 +1,190 @@
+[{
+  "_id": {
+    "$oid": "670b80f04b1620da791e0dc8"
+  },
+  "productName": "shoes",
+  "productPrice": 5000,
+  "productDescription": "sports shoes",
+  "productImage": "https://blackcamel.pk/cdn/shop/files/DSC4056_1200x_4b744621-abef-47a0-8287-97d096ed8355.jpg?v=1691522167&width=1445",
+  "user": {
+    "$oid": "670b7eb54b1620da791e0db0"
+  },
+  "createdAt": {
+    "$date": "2024-10-13T08:12:32.160Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-13T08:12:32.160Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67125dbe0d422793f1a7c2a9"
+  },
+  "productName": "trouser",
+  "productPrice": 1250,
+  "productDescription": "Men sports trouser",
+  "productImage": "https://charcoal.com.pk/cdn/shop/collections/Casual-Trousers-For-Men-Buy-Men-s-Trousers-in-Pakistan-at-Charcoal-Clothing-953.webp?v=1678628536&width=2048",
+  "user": {
+    "$oid": "670b603a9f4c09a77385e289"
+  },
+  "createdAt": {
+    "$date": "2024-10-18T13:08:15.274Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-18T13:12:02.229Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67125e420d422793f1a7c2c4"
+  },
+  "productName": "Belt",
+  "productPrice": 1000,
+  "productDescription": "black leather belt",
+  "productImage": "https://img.drz.lazcdn.com/static/pk/p/29939c95219fa5b7eadecc2e2d9e7ba2.jpg_720x720q80.jpg",
+  "user": {
+    "$oid": "670b603a9f4c09a77385e289"
+  },
+  "createdAt": {
+    "$date": "2024-10-18T13:10:26.857Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-18T13:10:26.857Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671329cb1c85d9cf882996c5"
+  },
+  "productName": "shirt",
+  "productPrice": 1400,
+  "productDescription": "men casual shirt",
+  "productImage": "https://expostore.pk/cdn/shop/files/01_dc0fcd58-e5a3-44f3-b10d-67671b02ac7a_1000x.jpg?v=1694347541",
+  "user": {
+    "$oid": "670b603a9f4c09a77385e289"
+  },
+  "createdAt": {
+    "$date": "2024-10-19T03:38:52.128Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-19T03:38:52.128Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67132d931c85d9cf88299701"
+  },
+  "productName": "cap",
+  "productPrice": 500,
+  "productDescription": "sun cap",
+  "productImage": "https://static-01.daraz.pk/p/2d876bb6df07d096ed700b054f7f9190.jpg",
+  "user": {
+    "$oid": "670b603a9f4c09a77385e289"
+  },
+  "createdAt": {
+    "$date": "2024-10-19T03:54:59.970Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-19T03:54:59.970Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67136a9c1c85d9cf8829980d"
+  },
+  "productName": "shoes",
+  "productPrice": 3000,
+  "productDescription": "women shoes | casual wear",
+  "productImage": "https://www.borjan.com.pk/cdn/shop/files/BW8606-Beige.png?v=1706520405",
+  "user": {
+    "$oid": "670b603a9f4c09a77385e289"
+  },
+  "createdAt": {
+    "$date": "2024-10-19T08:15:25.586Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-19T08:15:25.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67136ae91c85d9cf88299814"
+  },
+  "productName": "bag",
+  "productPrice": 3500,
+  "productDescription": "women bag | purse",
+  "productImage": "https://www.borjan.com.pk/cdn/shop/files/1_a26ea1b1-f4a0-4154-8a16-35658c5e85d3.png?v=1711519404",
+  "user": {
+    "$oid": "670b603a9f4c09a77385e289"
+  },
+  "createdAt": {
+    "$date": "2024-10-19T08:16:41.440Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-19T08:16:41.440Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67136b631c85d9cf8829981b"
+  },
+  "productName": "dress",
+  "productPrice": 8000,
+  "productDescription": "women dress | party wear",
+  "productImage": "https://www.dressyzone.com/cdn/shop/files/p16876-embroidered-lawn-dress_e8dad843-58d6-491c-b5d4-a2d8790dc9ab_580x.jpg?v=1718177437",
+  "user": {
+    "$oid": "670b603a9f4c09a77385e289"
+  },
+  "createdAt": {
+    "$date": "2024-10-19T08:18:43.844Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-19T08:18:43.844Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67136bc81c85d9cf88299822"
+  },
+  "productName": "cosmetics",
+  "productPrice": 10000,
+  "productDescription": "face treatment",
+  "productImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSQv3-UE30ahGuM6sR6CPdedUmLtJGt5n4GA&s",
+  "user": {
+    "$oid": "670b603a9f4c09a77385e289"
+  },
+  "createdAt": {
+    "$date": "2024-10-19T08:20:24.097Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-19T08:20:24.097Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67137b771c85d9cf8829983c"
+  },
+  "productName": "shirt",
+  "productPrice": 2000,
+  "productDescription": "men casual shirt",
+  "productImage": "https://www.inkfactory.pk/wp-content/uploads/2022/10/Mint-T-Shirt-019.jpg",
+  "user": {
+    "$oid": "670b603a9f4c09a77385e289"
+  },
+  "createdAt": {
+    "$date": "2024-10-19T09:27:21.830Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-19T09:27:21.830Z"
+  },
+  "__v": 0
+}]

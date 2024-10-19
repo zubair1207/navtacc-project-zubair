@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "670b603a9f4c09a77385e289"
+  },
+  "username": "zubair",
+  "email": "zubair@gmail.com",
+  "contact": "87655",
+  "address": "malir",
+  "age": 25,
+  "profilePhoto": "https://media.istockphoto.com/id/1300845620/vector/user-icon-flat-isolated-on-white-background-user-symbol-vector-illustration.jpg?s=612x612&w=0&k=20&c=yBeyba0hUkh14_jgv1OKqIH0CCSWU_4ckRkAoy2p73o=",
+  "role": "user",
+  "password": "$2a$10$H6bU5BUjDbv7KbfHL1z5JeqrxIT8Ol.271BdV6spg43S3yNOwUBtO",
+  "createdAt": {
+    "$date": "2024-10-13T05:52:58.850Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-13T05:52:58.850Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670b7eb54b1620da791e0db0"
+  },
+  "username": "ahmed",
+  "email": "ahmed@gmail.com",
+  "contact": "123987",
+  "address": "colony",
+  "age": 35,
+  "profilePhoto": "https://media.istockphoto.com/id/1300845620/vector/user-icon-flat-isolated-on-white-background-user-symbol-vector-illustration.jpg?s=612x612&w=0&k=20&c=yBeyba0hUkh14_jgv1OKqIH0CCSWU_4ckRkAoy2p73o=",
+  "role": "user",
+  "password": "$2a$10$hGqT72ZrMryasvOk1u8BNuHfgphDkOOtgYosSqcgWGKKR46XXdk7y",
+  "createdAt": {
+    "$date": "2024-10-13T08:03:01.659Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-13T08:03:01.659Z"
+  },
+  "__v": 0
+}]
